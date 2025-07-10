@@ -1,1 +1,1 @@
-print("mars")
+print("venus")
